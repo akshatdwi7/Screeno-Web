@@ -98,8 +98,8 @@ function App() {
         <nav className="flex justify-between items-center mb-16">
           <div className="flex items-center space-x-2">
             <img 
-              src="public/logo.png"
-              alt="Screeno Logo" 
+              // src="public/logo.png"
+              // alt="Screeno Logo" 
               className="w-12 h-12"
             />
             <span className="text-2xl font-bold">Screeno</span>
